@@ -128,7 +128,7 @@ export const App = () => {
           <div className="flex flex-col space-y-1.5">
             <header className="flex items-center justify-between gap-x-2 text-base">
               <h3 className="uppercase tracking text-slate-900/80 font-bold leading-none">
-                Servicio Nacional de Aprendizaje (SENA)
+                Servicio Nacional de Aprendizaje
               </h3>
               <div className="text-sm tabular-nums text-slate-400">
                 {2012} - <span className="capitalize">{2014}</span>
