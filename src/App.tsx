@@ -143,7 +143,7 @@ export const App = () => {
         </section>
         <section className="flex min-h-0 flex-col gap-y-3">
           <h2 className="text-xl font-bold text-slate-800">Skills</h2>
-          <div className="flex gap-x-2">
+          <div className="flex gap-2 flex-wrap">
             <span className="bg-slate-800/90 text-white text-xs py-1 px-2 rounded">
               JavaScript
             </span>
