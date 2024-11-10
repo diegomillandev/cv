@@ -257,6 +257,31 @@ export const App = () => {
                 </span>
               </div>
             </div>
+            <div className="border p-3 flex flex-col gap-y-2 rounded">
+              <h3 className="text-slate-900 font-bold">
+                <a
+                  href="https://real-estate-roan-mu.vercel.app/"
+                  target="_blank"
+                  className="hover:underline"
+                >
+                  Real Estate Page
+                </a>
+              </h3>
+              <p className="text-slate-500/90 font-mono text-xs">
+                A real estate page using a fake data json.
+              </p>
+              <div className="flex flex-wrap gap-1">
+                <span className="bg-slate-200 text-slate-900 text-xs py-1 px-2 rounded">
+                  JavaScript
+                </span>
+                <span className="bg-slate-200 text-slate-900 text-xs py-1 px-2 rounded">
+                  ReactJs
+                </span>
+                <span className="bg-slate-200 text-slate-900 text-xs py-1 px-2 rounded">
+                  Tailwind CSS
+                </span>
+              </div>
+            </div>
           </div>
         </section>
       </div>
