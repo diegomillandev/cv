@@ -109,7 +109,7 @@ export const App = () => {
                 </span>
               </h3>
               <div className="text-sm tabular-nums text-slate-400">
-                {2023} - <span className="capitalize">{`current`}</span>
+                {2021} - <span className="capitalize">{`current`}</span>
               </div>
             </header>
 
