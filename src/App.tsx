@@ -282,6 +282,31 @@ export const App = () => {
                 </span>
               </div>
             </div>
+            <div className="border p-3 flex flex-col gap-y-2 rounded">
+              <h3 className="text-slate-900 font-bold">
+                <a
+                  href="https://expense-tracker-millandev.netlify.app/"
+                  target="_blank"
+                  className="hover:underline"
+                >
+                  Expense Tracker
+                </a>
+              </h3>
+              <p className="text-slate-500/90 font-mono text-xs">
+                An expense tracker app create with React and Tailwind CSS.
+              </p>
+              <div className="flex flex-wrap gap-1">
+                <span className="bg-slate-200 text-slate-900 text-xs py-1 px-2 rounded">
+                  TypeScript
+                </span>
+                <span className="bg-slate-200 text-slate-900 text-xs py-1 px-2 rounded">
+                  ReactJS
+                </span>
+                <span className="bg-slate-200 text-slate-900 text-xs py-1 px-2 rounded">
+                  Tailwind CSS
+                </span>
+              </div>
+            </div>
           </div>
         </section>
       </div>
